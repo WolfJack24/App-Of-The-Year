@@ -8,4 +8,8 @@ this is the repo for my learning on the FNB App Academy - tbf ik know most of th
 > python -m http.server 2424
 ```
 
-and in a browser `localhost:2424`
+and in a browser
+
+```console
+localhost:2424
+```
